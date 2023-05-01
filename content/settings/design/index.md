@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/7c03bb15b55cd7bbcf6bc44481b72121.jpg"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/start_bild_mobile_web.jpg"
+logo = "/media/start_bild_mobile_web.jpg"
+image = "/media/start_bild_mobile_web.jpg"
 color = "#5d9fbd"
 +++
