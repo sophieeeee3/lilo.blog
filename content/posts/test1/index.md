@@ -16,7 +16,7 @@ footnotes = ""
 
 **Qu'est-ce qu'une carte postale sonore?**
 
-C'est une portrait d'un lieu on peux écouter. Sur laquelle on utilise les bruits de cette lieu et on décrire lui.
+C'est une portrait d'un lieu on peux écouter. Sur laquelle on utilise les bruits de ce lieu et on le décrit.
 
 Melinda et moi avons choisi l'Aare parce que nous aimons nager bien. Mais malheuresement, parce que Melinda fait une échange sur la Romandie, nous ne pouvons pas enregistrement notre audio sur l'Aare réel. Pour réplacer le sentiment, j'ajoute les bruits 'fake'. 
 
