@@ -70,8 +70,6 @@ Selen und ich (Sophie) schauten uns den Dokumentarfilm ‘The DNA of Dignity’ 
 
 ![Bild von Sophie Fachruddin](1.jpg)
 
-![BILDDD](1.jpg)
-
 
 Denn vor dem Kinoeingang standen Menschen jeglichen Alters in kleinen Grüppchen und es lag eine entspannte Atmosphäre in der Luft. Als wir uns 10 Minuten vor Beginn dazu entschieden reinzugehen, war es fast schon zu spät: Der Raum war gefüllt.
 
