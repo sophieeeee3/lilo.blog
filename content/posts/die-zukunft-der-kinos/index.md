@@ -81,3 +81,8 @@ Der Film thematisierte das Leben derjenigen, die im Jugoslawienkrieg jemanden ve
 In der Mitte des Filmes konnte man die ersten Geräusche schnäuzender Nasen hören. Selen flüsterte mir leise zu: «Dr Maa nebe üs grännet.» Ich sah mich kurz um und bemerkte, dass dem älteren Mann neben mir die Tränen in den Augen standen. Als ich mich wieder Selen zuwandte, war sie auch schon dem Weinen nahe. 
 
 ![Bild von Sophie Fachruddin](3.png)
+
+Nach dem Film führte ein Kollektivmitglied mit dem Regisseur Jan Baumgartner ein Interview. Es wurden auch viele Fragen vom Publikum gestellt. Ab und zu machte der Regisseur einen kleinen Witz, worauf Gelächter ausbrach. Im Wissen, dass alle in den letzten Stunden denselben Film gesehen hatten und über dasselbe Thema redeten und nachdachten, entstand ein gewisses Gemeinschaftsgefühl. 
+Nach der Aufführung wurde man dazu motiviert, den Film gemeinsam zu besprechen. Das vorrangige Ziel des Kollektivs war ganz klar, Gespräche zu erzeugen und so auf die Themen aufmerksam zu machen. 
+
+![Bild von Sophie Fachruddin](hehi.jpg)
