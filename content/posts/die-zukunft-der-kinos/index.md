@@ -70,7 +70,14 @@ Selen und ich (Sophie) schauten uns den Dokumentarfilm ‘The DNA of Dignity’ 
 
 ![Bild von Sophie Fachruddin](1.jpg)
 
-
 Denn vor dem Kinoeingang standen Menschen jeglichen Alters in kleinen Grüppchen und es lag eine entspannte Atmosphäre in der Luft. Als wir uns 10 Minuten vor Beginn dazu entschieden reinzugehen, war es fast schon zu spät: Der Raum war gefüllt.
 
 ![Bild von Sophie Fachruddin](2.jpg)
+
+Die Stimmung war drinnen gleich wie draussen: Zu hören war ausgelassenes Plaudern und Gelächter. Die Jüngeren machten es sich auf den Sofas in der vordersten Reihe bequem. Es sah so aus, als hätte sich eine ganze Freundesgruppe dazu entschieden, vor dem Ausgang noch gemeinsam einen Film zu schauen.
+Wir überlegten uns, angesichts des Platzmangels an der Bar zu sitzen. Doch in der vordersten Reihe hatte es noch zwei freie Sitze neben einem älteren Mann. Wir setzten uns hin und ich begann, mit ihm Smalltalk zu führen. Er wirkte nett und erklärte uns, wieso er trotz den heutigen Möglichkeiten des Streamings noch gerne ab und zu ins Kino kommt. Er meinte, es sei einfach etwas anderes als zuhause: die Leute, die Gespräche, die Filmqualität. Der wirklich springende Punkt für ihn sei aber die Filmauswahl. Man kann diesen Film nämlich gar nicht online streamen. Ausserdem sei es die Erstaufführung in Bern und der Regisseur sei auch vor Ort, das wäre schon etwas Besonderes für ihn.\
+Bevor wir weiter sprechen konnten, wurde unser Gespräch von lautem Applaus und Gejubel unterbrochen. Der Regisseur Jan Baumgartner trat nach vorne. Er sprach über die Idee hinter seinem Film und über die Dreharbeiten. Andrea, ein Mitglied des Kollektivs, mit dem wir uns im Vorfeld schon unterhalten durften, bedankte sich für die zahlreichen Gäste. Er machte noch die Bemerkung, dass der gefüllte Raum leider «ein seltener Anblick» sei. Nach einem zweiten Applaus ging es los. 
+Der Film thematisierte das Leben derjenigen, die im Jugoslawienkrieg jemanden verloren hatten, dessen Körperteile nun mithilfe DNA-Tests identifiziert werden konnten. Er stellte eine neue Perspektive auf die Folgen des Krieges dar. Viele Szenen zeigten das Ausgraben von Massengräbern, das Zersägen und Zermörsern der gefundenen Knochen. Es wurde teilweise so morbid, dass mir ein wenig schlecht wurde. Doch genau darum ging es ja: Die Darstellung der Realität tausender Menschen, deren Leben durch diese DNA-Proben drastisch verändert werden.\
+In der Mitte des Filmes konnte man die ersten Geräusche schnäuzender Nasen hören. Selen flüsterte mir leise zu: «Dr Maa nebe üs grännet.» Ich sah mich kurz um und bemerkte, dass dem älteren Mann neben mir die Tränen in den Augen standen. Als ich mich wieder Selen zuwandte, war sie auch schon dem Weinen nahe. 
+
+![Bild von Sophie Fachruddin](3.png)
