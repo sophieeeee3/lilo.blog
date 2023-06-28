@@ -3,7 +3,7 @@ title = "Vom Aussterben bedroht: Die Schweizer Kinos"
 date = "2023-06-27"
 draft = false
 pinned = false
-tags = ["Reportage", "Deutsch", "Kinosterben", "Kultur"]
+tags = ["Reportage", "Deutsch", "Kinosterben", "Kultur", "Film"]
 image = "hehi.jpg"
 description = "Steht das Todesurteil der Schweizer Kinos schon geschrieben?  \nUnd wie kann man deren Zukunft retten? \nEine Reportage von Sophie Fachruddin und Selen Kaya "
 +++
