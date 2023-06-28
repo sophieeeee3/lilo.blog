@@ -81,7 +81,7 @@ Bevor wir weiter sprechen konnten, wurde unser Gespräch von lautem Applaus und 
 Der Film thematisierte das Leben derjenigen, die im Jugoslawienkrieg jemanden verloren hatten, dessen Körperteile nun mithilfe DNA-Tests identifiziert werden konnten. Er stellte eine neue Perspektive auf die Folgen des Krieges dar. Viele Szenen zeigten das Ausgraben von Massengräbern, das Zersägen und Zermörsern der gefundenen Knochen. Es wurde teilweise so morbid, dass mir ein wenig schlecht wurde. Doch genau darum ging es ja: Die Darstellung der Realität tausender Menschen, deren Leben durch diese DNA-Proben drastisch verändert werden.\
 In der Mitte des Filmes konnte man die ersten Geräusche schnäuzender Nasen hören. Selen flüsterte mir leise zu: «Dr Maa nebe üs grännet.» Ich sah mich kurz um und bemerkte, dass dem älteren Mann neben mir die Tränen in den Augen standen. Als ich mich wieder Selen zuwandte, war sie auch schon dem Weinen nahe. 
 
-![Bild von Sophie Fachruddin](3.png)
+![Bild von Sophie Fachruddin](jaa.jpg)
 
 Nach dem Film führte ein Kollektivmitglied mit dem Regisseur Jan Baumgartner ein Interview. Es wurden auch viele Fragen vom Publikum gestellt. Ab und zu machte der Regisseur einen kleinen Witz, worauf Gelächter ausbrach. Im Wissen, dass alle in den letzten Stunden denselben Film gesehen hatten und über dasselbe Thema redeten und nachdachten, entstand ein gewisses Gemeinschaftsgefühl. 
 Nach der Aufführung wurde man dazu motiviert, den Film gemeinsam zu besprechen. Das vorrangige Ziel des Kollektivs war ganz klar, Gespräche zu erzeugen und so auf die Themen aufmerksam zu machen. 
