@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = "/media/download.jpeg"
-logo = ""
+logo = "/media/download.jpeg"
 image = ""
 color = "#1a2187"
 +++
