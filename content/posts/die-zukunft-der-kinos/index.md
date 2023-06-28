@@ -88,6 +88,8 @@ Nach dem Film führte ein Kollektivmitglied mit dem Regisseur Jan Baumgartner ei
 Nach der Aufführung wurde man dazu motiviert, den Film gemeinsam zu besprechen. Das vorrangige Ziel des Kollektivs war ganz klar, Gespräche zu erzeugen und so auf die Themen aufmerksam zu machen. 
 
 ![Bild von Sophie Fachruddin](hehi.jpg)
+
+
 Das Publikum versammelte sich nochmal im Innenhof. Es wurde wieder diskutiert, nur viel belebter als vor dem Film. 
 
 Insgesamt war unser Kinobesuch eine bereichernde Erfahrung. Der Film hatte viele wichtige Fragen zum Krieg thematisiert und brachte uns zum Nachdenken. Es war schön, ein Einsaalkino zu sehen, das trotz der Schwierigkeiten ein zahlreiches Publikum anziehen kann.
