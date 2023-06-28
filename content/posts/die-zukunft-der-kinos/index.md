@@ -61,6 +61,7 @@ Kennen Sie den Ort Schöftland? Dort gibt es seit etwa zehn Jahren ein Kino, das
 Ein kleines Programmkino in Bern ist das Kino in der Reitschule. Im Gespräch mit den Kollektivmitgliedern, die das 35 Jahre alte Kino organisieren, erfuhren wir viel über die Ziele und Motivationen hinter dem Kino. Das Kino ist als Kollektiv organisiert, das heisst, dass es durch Freiwilligenarbeit getragen wird. Weil das Kino nicht gewinnorientiert ist, gibt es auch keinen zwingenden Eintritt. Die Kosten der Filme werden durch Spendengelder finanziert. Das Einsaalkino der Reitschule legt seinen Fokus stark auf politische Themen. Auf ihrer Website heisst es, sie wollen:
 
 > «Geschichten von Menschen erzählen lassen, die etwas mit uns zu tun haben, die zeigen, in welchen gesellschaftlichen Verhältnissen und Verstrickungen sie gefangen sind und wie sie sich mit ihnen auseinandersetzen». 
+>
 > http://kino.reitschule.ch/
 
 Die Filmauswahl wird jeweils monatlich an einem Kollektivtreffen bestimmt. Die Filme passen immer in eines der politisch aktuellen Themenkomplexe, die sich teilweise über Monate hinwegziehen. Das Ziel ist, eine gründliche Auseinandersetzung mit der Thematik zu erreichen.
@@ -96,6 +97,7 @@ Insgesamt war unser Kinobesuch eine bereichernde Erfahrung. Der Film hatte viele
 Und genau das, denken wir, macht den grossen Unterschied zum isolierten Streaming. Nicht die grosse Leinwand oder die gute Tonqualität oder sogar die spezielle Filmauswahl. Ein Kinobesuch ist ein soziales Event, bei dem man sich mit seinen Freunden und vielen Unbekannten mehrere Stunden auf ein bestimmtes Thema einlässt und gemeinsam dazulernt. Genauso wie René Gerber es gesagt hat:
 
 > „Nicht zuhause auf dem Sofa alleine Streamingdienste schauen, sondern mit anderen Leuten zusammen etwas zu erleben.“
+>
 > René Gerber
 
 Wir denken, diesen sozialen Aspekt weiter zu fördern, so wie es das Kino in der Reitschule schon macht, kann das weitere Kinosterben verhindern. Es gibt viele Arten, diese Eventisierung zu fördern. Konkrete Beispiele in Bern sind Diskussionsrunden, Interviews mit Schauspielern und Regisseuren, themenbezogene Referate und Filmgespräche. An anderen Orten in der Schweiz verbindet man das Kinoerlebnis mit Gastroangeboten und Hotels (BlueCinema in Chur, Cinema8 in Schöftland) oder führt ‘Filme on demand’ ein, bei dem die Zuschauer selbst direkt über die Filmauswahl abstimmen können (theoneswelove.ch)
