@@ -86,3 +86,17 @@ Nach dem Film führte ein Kollektivmitglied mit dem Regisseur Jan Baumgartner ei
 Nach der Aufführung wurde man dazu motiviert, den Film gemeinsam zu besprechen. Das vorrangige Ziel des Kollektivs war ganz klar, Gespräche zu erzeugen und so auf die Themen aufmerksam zu machen. 
 
 ![Bild von Sophie Fachruddin](hehi.jpg)
+Das Publikum versammelte sich nochmal im Innenhof. Es wurde wieder diskutiert, nur viel belebter als vor dem Film. 
+
+Insgesamt war unser Kinobesuch eine bereichernde Erfahrung. Der Film hatte viele wichtige Fragen zum Krieg thematisiert und brachte uns zum Nachdenken. Es war schön, ein Einsaalkino zu sehen, das trotz der Schwierigkeiten ein zahlreiches Publikum anziehen kann.
+
+### Ein Ausweg aus dem Kinosterben
+
+Und genau das, denken wir, macht den grossen Unterschied zum isolierten Streaming. Nicht die grosse Leinwand oder die gute Tonqualität oder sogar die spezielle Filmauswahl. Ein Kinobesuch ist ein soziales Event, bei dem man sich mit seinen Freunden und vielen Unbekannten mehrere Stunden auf ein bestimmtes Thema einlässt und gemeinsam dazulernt. Genauso wie René Gerber es gesagt hat:
+
+> „Nicht zuhause auf dem Sofa alleine Streamingdienste schauen, sondern mit anderen Leuten zusammen etwas zu erleben.“
+> René Gerber
+
+Wir denken, diesen sozialen Aspekt weiter zu fördern, so wie es das Kino in der Reitschule schon macht, kann das weitere Kinosterben verhindern. Es gibt viele Arten, diese Eventisierung zu fördern. Konkrete Beispiele in Bern sind Diskussionsrunden, Interviews mit Schauspielern und Regisseuren, themenbezogene Referate und Filmgespräche. An anderen Orten in der Schweiz verbindet man das Kinoerlebnis mit Gastroangeboten und Hotels (BlueCinema in Chur, Cinema8 in Schöftland) oder führt ‘Filme on demand’ ein, bei dem die Zuschauer selbst direkt über die Filmauswahl abstimmen können (theoneswelove.ch)
+
+Mit all diesen Massnahmen sind wir uns sicher, dass sich die Kinos auch weiterhin ihren Platz in der Kulturbranche sichern können.
