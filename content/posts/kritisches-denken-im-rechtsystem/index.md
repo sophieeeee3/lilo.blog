@@ -3,6 +3,7 @@ title = "Kritisches Denken im Rechtsystem "
 date = "2023-12-22"
 draft = false
 pinned = false
+tags = ["deutsch"]
 +++
 In den letzten Wochen befassten wir uns im Deutschunterricht mit dem Thema kritisches Denken. Kritisches Denken ist in vielen Lagen ein sehr nützliches Werkzeug, doch in manchen Situationen ist es absolut notwendig und dessen Fehlen fatal.
 
