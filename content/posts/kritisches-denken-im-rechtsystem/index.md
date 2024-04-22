@@ -21,3 +21,11 @@ Ich finde das eine sehr interessante Diskussion, die jedoch noch viel zu früh k
 
 Wenn man eine KI, die Rechtsurteile aussprechen soll, mit vergangenen Fällen füttert, dann reproduziert sie unsere kognitiven Verzerrungen. Ich denke es geht noch eine Weile, bis wir eine befriedigende KI haben werden, die uns im Rechtssystem unterstützen kann. 
 Ich finde es jedoch wichtig, dass es beim Unterstützen bleibt. Die KI kann als Werkzeug dienen, dass über die Urteile der Richter drüber schaut und sich meldet, wenn die Gefahr besteht, dass der Richter von kognitiven Verzerrungen beeinflusst wurde. Weiter in der Zukunft kann ich mir sogar vorstellen, dass KI selbst Urteile vorschlagen wird und der Mensch diese dann kontrolliert. Ein komplett von Menschen unabhängiger Prozess wäre mir aber definitiv ein Schritt zu weit.
+
+{{<box>}}
+
+Das Thema habe ich ausgewählt, weil ich mehr über den hungry judge effect lesen wollte. Als Hilfsmittel habe ich Wikipedia benutzt.
+
+Es ging ziemlich schnell, den Text zu schreiben, es hat mir aber ein wenig an Schreibstoff gefehlt. Ich habe den Umfang von dem Thema überschätzt.
+
+{{</box>}}
