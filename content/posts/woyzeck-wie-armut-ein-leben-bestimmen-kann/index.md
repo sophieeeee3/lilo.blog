@@ -6,7 +6,7 @@ pinned = false
 +++
 <!--StartFragment-->
 
-Das Thema der Armut zieht sich durch die gesamte Geschichte Woyzeck.  Büchner's Werk spielt in den 1830ern, als es reichlich weniger soziale Unterstützung gab als heute, aber es sind immer noch viele Parallelen zu der Gegenwart zu finden. Arme, besonders diejenigen, die psychisch Krank sind, sind einem traurigen Schicksal ausgeliefert.
+In unserem Deutschunterricht haben wir das Theaterstück Woyzeck gelesen und sind bei der Analyse u.a. auf die in dem Stück dargestellte Armut eingegangen. Das Thema der Armut zieht sich durch die gesamte Geschichte Woyzeck.  Büchner's Werk spielt in den 1830ern, als es reichlich weniger soziale Unterstützung gab als heute, aber es sind immer noch viele Parallelen zu der Gegenwart zu finden. Arme, besonders diejenigen, die psychisch Krank sind, sind einem traurigen Schicksal ausgeliefert.
 
 \
 Woyzeck's Leben ist bestimmt durch die Armut. Er befindet sich in einem ewigen Überlebenskampf, dessen Ursache und Auswirkung die Armut ist. Die Kontrolle, die die Armut über Woyzeck's Leben hat, sieht man schon in der ersten Szene meiner Ausgabe, "Beim Hauptmann". Woyzeck rasiert den Hauptmann, seinen Vorgesetzten, der neunmalklug über die Moral spricht. Dabei, so stellt sich für den Leser schnell heraus, hat der Hauptmann selbst keine Ahnung, was die Moral eigentlich ist. Er deutet darauf hin, dass Woyzeck nicht moralisch sei, weil er ein uneheliches Kind habe. Was ihm dabei nicht bewusst ist, woran er vielleicht nicht einmal gedacht hat, ist, dass Woyzeck und Marie schlichtwegs das Geld für eine Hochzeit fehlt. Woyzeck kann seine Familie knapp über Wasser halten mit mehreren Jobs, die er gleichzeitig hat. Deshalb entgegnet Woyzeck dem Hauptmann:
@@ -35,5 +35,7 @@ Abschliessend kann man sagen, dass Armut ein Menschenleben vollständig bestimme
 {{<box>}}
 
 Ich bin relativ unzufrieden mit meinem Text. Ich habe viele Gedanken zu dem Thema aber konnte sie nicht schön ordnen. Wenn ich mehr Zeit hätte, würde ich mir die Hauptpunkte wahrscheinlich notieren und neu umsortieren und den ganzen Text neu schreiben.
+
+Für den Text habe ich keine Hilfsmittel und keine Quellen verwendet. 
 
 {{</box>}}
