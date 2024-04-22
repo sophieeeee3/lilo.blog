@@ -32,6 +32,8 @@ Abschliessend kann man sagen, dass Armut ein Menschenleben vollständig bestimme
 
 <!--EndFragment-->
 
-Klapptext
+{{<box>}}
 
 Ich bin relativ unzufrieden mit meinem Text. Ich habe viele Gedanken zu dem Thema aber konnte sie nicht schön ordnen. Wenn ich mehr Zeit hätte, würde ich mir die Hauptpunkte wahrscheinlich notieren und neu umsortieren und den ganzen Text neu schreiben.
+
+{{</box>}}
