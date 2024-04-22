@@ -70,11 +70,11 @@ Die Filmauswahl wird jeweils monatlich an einem Kollektivtreffen bestimmt. Die F
 
 Selen und ich (Sophie) schauten uns den Dokumentarfilm ‘The DNA of Dignity’ zum Thema ‘Frieden und Krieg’ an. Es war mein erster Besuch in dem Kino in der Reitschule. Es war erst Ende April, aber bei den 21°C konnte man sich schon fast einreden, es wäre ein warmer Sommerabend. Schon von Weitem konnte ich erkennen, in welche Richtung das Kino war.  
 
-![Bild von Sophie Fachruddin](1.jpg)
+![Bild von Sophie F.](1.jpg)
 
 Denn vor dem Kinoeingang standen Menschen jeglichen Alters in kleinen Grüppchen und es lag eine entspannte Atmosphäre in der Luft. Als wir uns 10 Minuten vor Beginn dazu entschieden reinzugehen, war es fast schon zu spät: Der Raum war gefüllt.
 
-![Bild von Sophie Fachruddin](2.jpg)
+![Bild von Sophie F.](2.jpg)
 
 Die Stimmung war drinnen gleich wie draussen: Zu hören war ausgelassenes Plaudern und Gelächter. Die Jüngeren machten es sich auf den Sofas in der vordersten Reihe bequem. Es sah so aus, als hätte sich eine ganze Freundesgruppe dazu entschieden, vor dem Ausgang noch gemeinsam einen Film zu schauen.
 Wir überlegten uns, angesichts des Platzmangels an der Bar zu sitzen. Doch in der vordersten Reihe hatte es noch zwei freie Sitze neben einem älteren Mann. Wir setzten uns hin und ich begann, mit ihm Smalltalk zu führen. Er wirkte nett und erklärte uns, wieso er trotz den heutigen Möglichkeiten des Streamings noch gerne ab und zu ins Kino kommt. Er meinte, es sei einfach etwas anderes als zuhause: die Leute, die Gespräche, die Filmqualität. Der wirklich springende Punkt für ihn sei aber die Filmauswahl. Man kann diesen Film nämlich gar nicht online streamen. Ausserdem sei es die Erstaufführung in Bern und der Regisseur sei auch vor Ort, das wäre schon etwas Besonderes für ihn.\
