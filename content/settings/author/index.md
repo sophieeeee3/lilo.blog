@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Sophie"
-image = "/media/lallaal.jpg"
+image = ""
 url = ""
 +++
