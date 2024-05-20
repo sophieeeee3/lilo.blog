@@ -1,5 +1,5 @@
 +++
-title = "Die Verwandlung heute: Kapitalismus und Konsumgesellschaft"
+title = "Die Verwandlung heute: Kapitalismus, Konsum und Klimawandel"
 date = "2024-05-19"
 draft = false
 pinned = false
