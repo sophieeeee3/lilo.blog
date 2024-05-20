@@ -14,7 +14,7 @@ Wir haben uns in den letzten Wochen mit Kafka beschäftigt und im Rahmen dessen 
 \
 Als Hausaufgabe auf den 13.05. sollten wir uns Gedanken zu der Verwandlung in der heutigen Zeit machen. Ich möchte in diesem Blogeintrag auf diesen Auftrag näher eingehen.
 
-anhand von unterrichtsnotizen ergänzen
+anhand von unterrichtsnotizen ergänzen, notizen aus dem buch!
 
 Nachdem ich den Text gelesen hatte, sind mir einige Parallelen zur Gegenwart eingefallen. Der Text ist sehr abstrakt, sodass er auf viel Situationen angewendet werden kann und deshalb mit dem Vergehen der Zeit nicht an Relevanz und Aktualität verliert. Kafka schreibt in dieser Geschichte über viele Umstände unter denen er leidet, u.a. den familiären Strukturen, der ausnutzenden Arbeitswelt und Gefühle der Ausgeschlossenheit, Entfremdung und Hilfslosigkeit. Ich werde mich auf die Arbeitswelt und die Konsumgesellschaft konzentrieren.
 
@@ -29,8 +29,6 @@ Ich denke, dieses Gefühl von Kontrollverlust ist in meiner Generation besonders
 Vielleicht bin ich auch sehr stark in meiner Bubble drin aber in meinem Umkreis leiden viele unter diesen Gedanken. Mein Vater hat mich mal gefragt, wieso die Depressionsrate von Teenagern in westlichen Ländern so hoch ist, wenn uns alle Möglichkeiten offen stehen und man die Ausbildung komplett auswählen kann. Ich denke, dass wir viele Privilegien haben, aber die Last tragen, im Hinterkopf zu haben, dass die Welt immer mehr kaputt geht und es in diesen Strukturen, die wir haben, sehr schwierig ist, kosten lastige Veränderungen durchzusetzen, um ein nicht fassbares, für uns unsichtbares Problem zu bekämpfen. Ich kenne viele, die sich, genau wie Gregor, ausgeliefert in ihrer Position fühlen und versuchen, durch ihr Verhalten etwas zu ändern aber realisieren, wie beschränkt ihre Macht ist. 
 
 Beispielsweise ist Gregor stets in einer Position, in der er nicht viel verändern kann und gewissermassen ausgeliefert ist. Als Mensch ist er gezwungen, jeden Tag einer harten Arbeit nachzugehen, um die Schulden seines Vaters abzuzahlen und seiner Familie ein gutes Leben zu gewährleisten. Als Käfer ist er auch gefangen; sowohl in seinem Körper als auch in seinem Zimmer. Er wird isoliert von dem Rest der Gesellschaft und verliert damit jegliche Freiheiten. Einsamkeit, Ausgeliefertsein, Gefangenheit im der eigenen Existenz, 
-
-beispiele aus notizen im buch
 
 Kastentext
 
