@@ -1,5 +1,5 @@
 +++
-title = "Probleme der Verwandlung verglichen mit aktuellen Problemen"
+title = "Die Verwandlung heute: Kapitalismus, Konsum und Klimawandel"
 date = "2024-05-19"
 draft = false
 pinned = false
