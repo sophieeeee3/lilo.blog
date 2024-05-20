@@ -1,7 +1,7 @@
 +++
 title = "Die Verwandlung heute: Konsum und Kapitalismus"
 date = "2024-05-19"
-draft = true
+draft = false
 pinned = false
 image = "0e89c726-5245-43cb-a249-99da965e4366.jpeg"
 +++
