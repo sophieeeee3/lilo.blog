@@ -3,6 +3,7 @@ title = "Die Verwandlung heute: Kapitalismus und Konsumgesellschaft"
 date = "2024-05-19"
 draft = false
 pinned = false
+tags = ["deutsch"]
 image = "0e89c726-5245-43cb-a249-99da965e4366.jpeg"
 +++
 <!--StartFragment-->
@@ -30,6 +31,14 @@ Vielleicht bin ich auch sehr stark in meiner Bubble drin aber in meinem Umkreis 
 
 Beispielsweise ist Gregor stets in einer Position, in der er nicht viel verändern kann und gewissermassen ausgeliefert ist. Als Mensch ist er gezwungen, jeden Tag einer harten Arbeit nachzugehen, um die Schulden seines Vaters abzuzahlen und seiner Familie ein gutes Leben zu gewährleisten. Als Käfer ist er auch gefangen; sowohl in seinem Körper als auch in seinem Zimmer. Er wird isoliert von dem Rest der Gesellschaft und verliert damit jegliche Freiheiten. Einsamkeit, Ausgeliefertsein, Gefangenheit im der eigenen Existenz, 
 
-Kastentext
+<!--EndFragment-->
+
+{{<box>}}
+
+
+
+Für den Text habe ich keine Quellen benutzt. Bildquelle: *Gregor Samsa* von Rich Johnson
 
 <!--EndFragment-->
+
+{{</box>}}
