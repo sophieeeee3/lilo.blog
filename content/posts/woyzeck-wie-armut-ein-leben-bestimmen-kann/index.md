@@ -3,6 +3,7 @@ title = "Woyzeck: Wie Armut ein Leben bestimmen kann"
 date = "2024-04-15"
 draft = false
 pinned = false
+tags = ["deutsch"]
 +++
 <!--StartFragment-->
 
