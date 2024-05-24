@@ -1,6 +1,6 @@
 +++
 title = "Die Verwandlung heute: Kapitalismus, Konsum und Klimawandel"
-date = "2024-05-19"
+date = "2024-05-17"
 draft = false
 pinned = false
 tags = ["deutsch"]
@@ -8,7 +8,7 @@ image = "0e89c726-5245-43cb-a249-99da965e4366.jpeg"
 +++
 <!--StartFragment-->
 
-Wir haben uns in den letzten Wochen mit Kafka beschäftigt und im Rahmen dessen "Die Verwandlung" gelesen. In der Klasse haben wir mehrere Interpretationsansätze gesammelt und besprochen, wie zum Beispiel…
+Wir haben uns in den letzten Wochen mit Kafka beschäftigt und im Rahmen dessen "Die Verwandlung" gelesen. In der Klasse haben wir mehrere Deutungshypothesen gesammelt und besprochen, wie zum Beispiel, dass der Text autobiographisch ist und Kafkas Beziehung zu seiner Familie darstellt, oder dass es eine Kritik an der Arbeitswelt ist, oder dass Gregor als Ungeziefer eine Person mit psychischen Problemen darstellt, oder die Lebensumstände der Zeit kritisiert.
 
 … anhand von unterrichtsnotizen ergänzen
 
@@ -17,7 +17,9 @@ Als Hausaufgabe auf den 13.05. sollten wir uns Gedanken zu der Verwandlung in de
 
 anhand von unterrichtsnotizen ergänzen, notizen aus dem buch!
 
-Nachdem ich den Text gelesen hatte, sind mir einige Parallelen zur Gegenwart eingefallen. Der Text ist sehr abstrakt, sodass er auf viel Situationen angewendet werden kann und deshalb mit dem Vergehen der Zeit nicht an Relevanz und Aktualität verliert. Kafka schreibt in dieser Geschichte über viele Umstände, unter denen er leidet, unter anderem die ausnutzende Arbeitswelt und Gefühle der Ausgeschlossenheit, Entfremdung und Hilfslosigkeit. Ich werde versuchen, diese Elemente der Geschichte mit heute zu vergleichen. 
+Nachdem ich den Text gelesen hatte, sind mir einige Parallelen zur Gegenwart eingefallen. Der Text ist sehr abstrakt, sodass er auf viel Situationen angewendet werden kann und deshalb mit dem Vergehen der Zeit nicht an Relevanz und Aktualität verliert. Es gibt aber auch Themen, die sich durch den Text ziehen, die nicht ambivalent sein wollen, sondern ein klares Bild zeichnen möchten. 
+
+Kafka schreibt in dieser Geschichte über viele Umstände, unter denen er leidet, unter anderem die ausnutzende Arbeitswelt und Gefühle der Ausgeschlossenheit, Entfremdung und Hilfslosigkeit. Ich werde versuchen, diese Elemente der Geschichte mit heute zu vergleichen. 
 
 Vor der Verwandlung sah Gregors Arbeitsalltag sehr streng aus; er musste sehr früh aufstehen, um den ganzen Tag zu arbeiten. Er ging einer Arbeit nach, die er gar nicht mochte, weil er die Schulden des Vaters abzahlen musste und der Familie ein schönes Leben garantieren wollte. Wie der Leser, und gleichzeitig Gregor Samsa, erst mitten im Buch erfahren, legte die Familie einen Teil von Gregors Lohn stets zur Seite, ohne es ihm zu sagen.
 
