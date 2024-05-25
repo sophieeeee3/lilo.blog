@@ -14,7 +14,7 @@ Woyzeck's Leben ist bestimmt durch seine Armut. Er befindet sich in einem ewigen
 
 > "Ich wollt schon tugendhaft sein. Es muss was Schönes sein um die Tugend, Herr Hauptmann. Aber ich bin ein armer Kerl." 
 
-(Seite 6)\
+Seite 6, Woyzeck\
 \
 Die Szene zeigt Woyzecks Position in der Gesellschaft und seine Probleme in der Geschichte. Woyzeck, ein armer, schizophren kranker Mann, hat nicht viel und muss konstant um sein überleben kämpfen, wenn andere sich seine Probleme nicht einmal vorstellen können. Ich werde mir überlegen, wieso es zu der Armut kam, welche Konsequenzen die Armut auf sein Leben hat und gleichzeitig versuchen, die Probleme des Theaterstücks von 1836 auf die Gegenwart zu projizieren. 
 
