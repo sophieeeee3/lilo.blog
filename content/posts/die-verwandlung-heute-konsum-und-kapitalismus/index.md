@@ -17,9 +17,9 @@ Als Hausaufgabe auf den 13.05. sollten wir uns Gedanken zu der Verwandlung in de
 
 anhand von unterrichtsnotizen ergänzen, notizen aus dem buch!
 
-Nachdem ich den Text gelesen hatte, sind mir einige Parallelen zur Gegenwart eingefallen. Der Text ist sehr abstrakt, sodass er auf viel Situationen angewendet werden kann und deshalb mit dem Vergehen der Zeit nicht an Relevanz und Aktualität verliert. Es gibt aber auch Themen, die sich klar durch den Text ziehen; die Hierarchien seiner Familie und der Arbeitswelt, Isolation von der Gesellschaft, der Einfluss von materiellen Umständen auf das Leben uvm.
+Nachdem ich den Text gelesen hatte, sind mir einige Parallelen zur Gegenwart eingefallen. Es ist bekannt, dass manche Jugendliche meiner Generation sehr lange Zeit im Bett liegen und nichts machen, weil sie sich schlecht fühlen und keine Energie haben ('bed rotting'). Ich habe mir gedacht, dass man dies mit Gregor vergleichen kann, der in seinem Zimmer gefangen ist und nicht wegkommt. Deshalb möchte ich die Umstände, die Gregor zur Verwandlung gebracht haben, mit den Dingen, die viele meiner Freunden belasten, vergleichen. Auch die Gefühle während der Isolation sind vergleichbar.
 
-Unter vielen dieser Umstände litt Kafka selbst, u.a. der ausnutzende Arbeitsweltund familiären Problemen, Gefühle der Ausgeschlossenheit. Ich werde versuchen, diese Elemente der Geschichte mit heute zu vergleichen. 
+Der Text ist sehr abstrakt, sodass er auf viel Situationen angewendet werden kann und deshalb mit dem Vergehen der Zeit nicht an Relevanz und Aktualität verliert. Es gibt aber auch Themen, die sich klar durch den Text ziehen; die Hierarchien seiner Familie und der Arbeitswelt, Isolation von der Gesellschaft, der Einfluss von materiellen Umständen auf das Leben uvm. Ich werde versuchen, diese Elemente der Geschichte mit heute zu vergleichen. 
 
 Vor der Verwandlung sah Gregors Arbeitsalltag sehr streng aus; er musste sehr früh aufstehen, um den ganzen Tag zu arbeiten. Er ging einer Arbeit nach, die er gar nicht mochte, weil er die Schulden des Vaters abzahlen musste und seiner Familie ein schönes Leben garantieren wollte. Wie der Leser, und gleichzeitig Gregor Samsa, erst mitten im Buch erfahren, legte die Familie einen Teil von Gregors Lohn stets zur Seite, ohne es ihm zu sagen.
 
@@ -40,6 +40,8 @@ Ich kenne viele, die sich, genau wie Gregor, ausgeliefert in ihrer Position füh
 {{<box>}}
 
 Für den Text habe ich keine Quellen benutzt. Bildquelle: *Gregor Samsa* von Rich Johnson
+
+Diesen Text habe ich nicht aufeinmal geschrieben, sondern ich habe immer wieder kurze Zeit daran gearbeitet. Ich denke, das zeigt sich indem ich einiges wiederhole, was natürlich den Lesefluss stört. Ich hoffe, ich konnte ein paar Gedanken rüberbringen und der Text ist nicht nur für mich verständlich.
 
 <!--EndFragment-->
 
