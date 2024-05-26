@@ -1,5 +1,5 @@
 +++
-title = "'Bed rotting': Gregors und unsere Gründe"
+title = "'Bed rotting': Gregors und gegenwärtige Gründe"
 date = "2024-05-17"
 draft = false
 pinned = false
@@ -46,9 +46,9 @@ Die Bestätigung bekommt er aber nicht, und als seine Familie aufhören, ihn zu 
 
 Für den Text habe ich keine Quellen benutzt. Bildquelle: *Gregor Samsa* von Rich Johnson
 
-Diesen Text habe ich nicht aufeinmal geschrieben, sondern ich habe immer wieder kurze Zeit daran gearbeitet. Ich denke, das zeigt sich leider. Ich wiederhole Gedanken, was natürlich den Lesefluss stört. Ich hoffe, ich konnte ein paar Gedanken rüberbringen und der Text ist nicht nur für mich verständlich.
+Diesen Text habe ich nicht auf einmal geschrieben, sondern ich habe immer wieder kurze Zeit daran gearbeitet. Ich denke, das zeigt sich leider. Ich wiederhole Gedanken, was natürlich den Lesefluss stört. Ich hoffe, ich konnte ein paar Gedanken rüberbringen und der Text ist nicht nur für mich verständlich.
 
-
+Für die Zeit, die ich hatte, ist es in Ordnung, aber wenn ich mehr schreiben könnte wäre es klarer gewesen, auf was ich hinaus möchte. Ich hätte mehr Beispiele aus dem Text und aus der Gegenwart bringen können, mehr 
 
 <!--EndFragment-->
 
