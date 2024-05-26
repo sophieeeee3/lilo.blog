@@ -35,13 +35,15 @@ Vielleicht bin ich auch sehr stark in meiner Bubble, aber in meinem Umkreis leid
 
 Gregor ist stets in einer Position, in der er nicht viel verändern kann und gewissermassen ausgeliefert ist. Als Mensch ist er gezwungen, jeden Tag einer harten Arbeit nachzugehen, um die Schulden seines Vaters abzuzahlen und seiner Familie ein gutes Leben zu gewährleisten. Als Käfer ist er auch gefangen; sowohl in seinem Körper als auch in seinem Zimmer. Ich kenne viele, die sich, genau wie Gregor, ausgeliefert in ihrer Position fühlen und versuchen, durch ihr Verhalten etwas zu ändern aber gleichzeitig genau wissen, wie beschränkt ihre Macht ist.
 
-Als Ungeziefer ist er ein für  unsere Gesellschaft unproduktives Lebewesen, auf das herabgeschaut wird. Seit der Verwandlung "nützt" er weder seiner Familie noch seinem Arbeitsgeber etwas. In seinem arbeitsunfähigen, kranken Zustand verursacht er nur Kosten. Ich denke, daran hat sich wenig verändert. Heute gibt es immer noch sehr viel Druck, auch krank zur Arbeit zu gehen. 
+Als Ungeziefer ist er für unsere Gesellschaft ein unproduktives Lebewesen, auf das herabgeschaut wird. Seit der Verwandlung "nützt" er weder seiner Familie noch seinem Arbeitsgeber etwas. In seinem arbeitsunfähigen, kranken Zustand verursacht er nur Kosten. Ich denke, daran hat sich wenig verändert. Heute gibt es immer noch sehr viel Druck, auch krank zur Arbeit zu gehen. 
 
-Am meisten stört es ihn selbst, weil er, wie schon gesagt, keine Macht über seinen Körper hat. Es wirkt aber so, als bräuchte er die Arbeit zwingend, um sich nützlich zu fühlen und seine eigenen Existenz rechtzufertigen. Als er keiner Arbeit mehr nachgehen kann, sucht er die Bestätigung beim Prokuristen: 
+Gregor wirkt so, als bräuchte er die Arbeit zwingend, um sich nützlich zu fühlen und seine eigenen Existenz rechtzufertigen. Als er keiner Arbeit mehr nachgehen kann, sucht er die Bestätigung beim Prokuristen: 
 
 > "Herr Prokurist, gehen Sie nicht weg, ohne mir ein Wort gesagt zu haben, das mir zeigt, dass Sie mir wenigstens zu einem kleinen Teil recht geben!"
 
 \-Seite 39, Die Verwandlung
+
+Die Bestätigung bekommt er aber nicht, und als seine Familie aufhören, ihn zu lieben und und an ihn zu glauben, verliert er den letzten Grund zum Leben.
 
 <!--EndFragment-->
 
