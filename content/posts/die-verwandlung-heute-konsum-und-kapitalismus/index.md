@@ -16,7 +16,7 @@ Nachdem ich den Text gelesen hatte, sind mir einige Parallelen zur Gegenwart ein
 
 Der Text ist sehr abstrakt, sodass er auf viel Situationen angewendet werden kann und deshalb mit dem Vergehen der Zeit nicht an Relevanz und Aktualität verliert. Es gibt aber auch Themen, die sich klar durch den Text ziehen; die Hierarchien seiner Familie und der Arbeitswelt, Isolation von der Gesellschaft, der Einfluss von materiellen Umständen auf das Leben uvm. Ich werde versuchen, diese Elemente der Geschichte mit heute zu vergleichen. 
 
-Vor der Verwandlung sah Gregors Arbeitsalltag sehr streng aus; er musste sehr früh aufstehen, um den ganzen Tag zu arbeiten. Er ging einer Arbeit nach, die er gar nicht mochte, weil er die Schulden des Vaters abzahlen musste und seiner Familie ein schönes Leben garantieren wollte. Wie der Leser, und gleichzeitig Gregor Samsa, erst mitten im Buch erfahren, legte die Familie einen Teil von Gregors Lohn stets zur Seite, ohne es ihm zu sagen.
+Vor der Verwandlung sah Gregors Arbeitsalltag sehr streng aus; er musste sehr früh aufstehen, um den ganzen Tag zu arbeiten. Er ging einer Arbeit nach, die er gar nicht mochte, weil er die Schulden des Vaters abzahlen musste und seiner Familie ein schönes Leben garantieren wollte. Wie der Leser, und gleichzeitig Gregor Samsa, erst mitten im Buch erfahren, legte die Familie einen Teil von Gregors Lohn stets zur Seite, ohne es ihm zu sagen. So denkt Gregor nach dem er davon erfährt:
 
 > "Eigentlich hätte er ja mit diesen überschüssigen Geldern die Schuld des Vaters gegenüber dem Chef weiter abtragen haben können, und jener Tag, an dem er diesen Posten hätte loswerden können, wäre weit näher gewesen" 
 
