@@ -1,5 +1,5 @@
 +++
-title = "Die Verwandlung heute: Kapitalismus, Konsum und Klimawandel"
+title = "'Bed rotting': Gregors und unsere Gründe"
 date = "2024-05-17"
 draft = false
 pinned = false
