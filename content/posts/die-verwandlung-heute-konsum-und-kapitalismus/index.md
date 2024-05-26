@@ -32,7 +32,7 @@ Gregor ist stets in einer Position, in der er nicht viel verändern kann und gew
 
 Als Ungeziefer ist er für unsere Gesellschaft ein unproduktives Lebewesen, auf das herabgeschaut wird. Seit der Verwandlung "nützt" er weder seiner Familie noch seinem Arbeitsgeber etwas. In seinem arbeitsunfähigen, kranken Zustand verursacht er nur Kosten. Ich denke, daran hat sich wenig verändert. Heute gibt es immer noch sehr viel Druck, auch krank zur Arbeit zu gehen. 
 
-Gregor wirkt so, als bräuchte er seine Arbeit zwingend, um sich nützlich zu fühlen und seine eigenen Existenz rechtzufertigen. Als er keiner Arbeit mehr nachgehen kann, sucht er die Bestätigung beim Prokuristen: 
+Gregor wirkt so, als bräuchte er seine Arbeit, um sich nützlich zu fühlen und seine eigenen Existenz zu rechtfertigen. Als er keiner Arbeit mehr nachgehen kann, sucht er die Bestätigung beim Prokuristen: 
 
 > "Herr Prokurist, gehen Sie nicht weg, ohne mir ein Wort gesagt zu haben, das mir zeigt, dass Sie mir wenigstens zu einem kleinen Teil recht geben!"
 
