@@ -23,7 +23,9 @@ Der Text ist sehr abstrakt, sodass er auf viel Situationen angewendet werden kan
 
 Vor der Verwandlung sah Gregors Arbeitsalltag sehr streng aus; er musste sehr früh aufstehen, um den ganzen Tag zu arbeiten. Er ging einer Arbeit nach, die er gar nicht mochte, weil er die Schulden des Vaters abzahlen musste und seiner Familie ein schönes Leben garantieren wollte. Wie der Leser, und gleichzeitig Gregor Samsa, erst mitten im Buch erfahren, legte die Familie einen Teil von Gregors Lohn stets zur Seite, ohne es ihm zu sagen.
 
-Zitat?
+> "Eigentlich hätte er ja mit diesen überschüssigen Geldern die Schuld des Vaters gegenüber dem Chef weiter abtragen haben können, und jener Tag, an dem er diesen Posten hätte loswerden können, wäre weit näher gewesen" 
+
+\- Seite 52, Die Verwandlung
 
 Er wurde von seiner Familie also nicht nur ausgenutzt, um ihren Unterhalt zu zahlen, obwohl alle Mitglieder arbeitsfähig sind. Sondern sein Geld wurde auch eingeteilt und benutzt, ohne, dass er in die Entscheidungen einbezogen wurde oder darüber informiert wurde. Die Macht über solche Entscheidungen liegt immer noch bei Gregors Vater. Gregor ist also sowohl in der Arbeitswelt als auch in seiner Familie machtlos und am unteren Ende der Hierarchien. Gregor hat absolut keine Kontrolle über sein Leben, bis auf seine Gedanken. Das zeigt sich später auch in seiner Verwandlung zum Ungeziefer. Als Ungeziefer wünscht er sich stets Kontrolle über seinen Körper, seine Umstände, seine Möbel, seine Stimme, seine Arbeitsfähigkeit doch kommt er stets zu der ernüchternden Erkenntnis, dass er komplett ausgeliefert ist. 
 
@@ -31,9 +33,15 @@ Ich denke, dieses Gefühl von Kontrollverlust ist in meiner Generation besonders
 
 Vielleicht bin ich auch sehr stark in meiner Bubble, aber in meinem Umkreis leiden viele unter diesen Gedanken. Mein Vater hat mich einmal gefragt, wieso die Depressionsrate von Teenagern in westlichen Ländern so gestiegen ist, wenn uns alle Möglichkeiten offen stehen und man seine Ausbildung frei auswählen kann. Ich denke, dass wir viele Privilegien haben, aber die Last tragen, mit einer Menge Probleme konfrontiert zu werden. Wir haben im Hinterkopf, dass die Welt immer heisser wird und es in den existierenden Strukturen sehr schwierig ist, teure Veränderungen durchzusetzen, um Probleme zu bekämpfen, die erst später vollständig sichtbar werden.
 
-Gregor ist stets in einer Position, in der er nicht viel verändern kann und gewissermassen ausgeliefert ist. Als Mensch ist er gezwungen, jeden Tag einer harten Arbeit nachzugehen, um die Schulden seines Vaters abzuzahlen und seiner Familie ein gutes Leben zu gewährleisten. Als Käfer ist er auch gefangen; sowohl in seinem Körper als auch in seinem Zimmer. 
+Gregor ist stets in einer Position, in der er nicht viel verändern kann und gewissermassen ausgeliefert ist. Als Mensch ist er gezwungen, jeden Tag einer harten Arbeit nachzugehen, um die Schulden seines Vaters abzuzahlen und seiner Familie ein gutes Leben zu gewährleisten. Als Käfer ist er auch gefangen; sowohl in seinem Körper als auch in seinem Zimmer. Ich kenne viele, die sich, genau wie Gregor, ausgeliefert in ihrer Position fühlen und versuchen, durch ihr Verhalten etwas zu ändern aber gleichzeitig genau wissen, wie beschränkt ihre Macht ist.
 
-Ich kenne viele, die sich, genau wie Gregor, ausgeliefert in ihrer Position fühlen und versuchen, durch ihr Verhalten etwas zu ändern aber gleichzeitig genau wissen, wie beschränkt ihre Macht ist. 
+Als Ungeziefer ist er ein für  unsere Gesellschaft unproduktives Lebewesen, auf das herabgeschaut wird. Seit der Verwandlung "nützt" er weder seiner Familie noch seinem Arbeitsgeber etwas. In seinem arbeitsunfähigen, kranken Zustand verursacht er nur Kosten. Ich denke, daran hat sich wenig verändert. Heute gibt es immer noch sehr viel Druck, auch krank zur Arbeit zu gehen. 
+
+Am meisten stört es ihn selbst, weil er, wie schon gesagt, keine Macht über seinen Körper hat. Es wirkt aber so, als bräuchte er die Arbeit zwingend, um sich nützlich zu fühlen und seine eigenen Existenz rechtzufertigen. Als er keiner Arbeit mehr nachgehen kann, sucht er die Bestätigung beim Prokuristen: 
+
+> "Herr Prokurist, gehen Sie nicht weg, ohne mir ein Wort gesagt zu haben, das mir zeigt, dass Sie mir wenigstens zu einem kleinen Teil recht geben!"
+
+\-Seite 39, Die Verwandlung
 
 <!--EndFragment-->
 
