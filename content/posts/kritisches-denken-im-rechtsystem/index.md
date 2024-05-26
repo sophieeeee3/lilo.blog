@@ -5,9 +5,9 @@ draft = false
 pinned = false
 tags = ["deutsch"]
 +++
-In den letzten Wochen befassten wir uns im Deutschunterricht mit dem Thema kritisches Denken. Kritisches Denken ist in vielen Lagen ein sehr nützliches Werkzeug, doch in manchen Situationen ist es absolut notwendig und dessen Fehlen fatal. Wir haben verschiedene kognitive Verzerrungen behandelt, auf die ich im folgenden Text eingehen werde. Ich versuche jeweils direkt die kognitiven Verzerrungen auf die ich stosse in die gelernten Kategorien einzuordnen.
+In den letzten Wochen befassten wir uns im Deutschunterricht mit dem Thema kritisches Denken. Kritisches Denken ist in vielen Lagen ein sehr nützliches Werkzeug, doch in manchen Situationen ist es absolut notwendig und dessen Fehlen fatal. Wir haben verschiedene kognitive Verzerrungen behandelt, auf die ich im folgenden Text eingehen werde. Ich versuche jeweils direkt die kognitiven Verzerrungen, auf die ich stosse, in die gelernten Kategorien einzuordnen.
 
-Mir ist aufgefallen, dass kritisches Denken besonders in Berufen zweier Bereiche wichtig ist. Der Erste ist die Erkenntnisgewinnung, beispielsweise in der wissenschaftlichen Forschung. Begeht man dort einen Fehler, gibt es aber oft Personen, die einen direkt darauf hinweisen. Der zweite Bereich sind Berufe mit Machtpositionen. Damit meine ich Berufe, in denen Entscheidungen getroffen werden müssen, die viele andere Personnen betreffen. Solche Berufe sind beispielsweise Politiker, Ärzte, Polizisten und Richter.
+Mir ist aufgefallen, dass kritisches Denken besonders in Berufen zweier Bereiche wichtig ist. Der Erste ist die Erkenntnisgewinnung, beispielsweise in der wissenschaftlichen Forschung. Begeht man dort einen Fehler, gibt es aber oft Personen, die einen direkt darauf hinweisen. Der zweite Bereich sind Berufe mit Machtpositionen. Damit meine ich Berufe, in denen Entscheidungen getroffen werden müssen, die viele andere Personen betreffen. Solche Berufe sind beispielsweise Politiker, Ärzte, Polizisten und Richter.
 
 Ich beziehe mich nun auf das Rechtssystem, insbesondere Richter, weil ich vor einiger Zeit über den «hungry judge effect» gelesen habe. Dabei handelt es sich um eine Studie, die untersucht hat, welchen Einfluss (Essens-)Pausen auf Urteile hat. Die Studie besagt, dass Richter vor einer Mahlzeit eher dazu neigten, den Status quo beizubehalten, als danach. Diesen Unterschied erklärten sich die Wissenschaftler mit der Erschöpfung der Richter.
 
@@ -26,6 +26,6 @@ Ich finde es jedoch wichtig, dass es beim Unterstützen bleibt. Die KI kann als 
 
 Das Thema habe ich ausgewählt, weil ich mehr über den hungry judge effect lesen wollte. Als Hilfsmittel habe ich Wikipedia benutzt: https://en.wikipedia.org/wiki/Hungry_judge_effect
 
-Es ging ziemlich schnell, den Text zu schreiben. Ich habe das Wissen vom Deutschunterricht mit dem Wikipedia Artikel kombiniert und einfach angefangen, draufloszuschreiben. Ich bin relativ zufrieden mit dem Text, auch wenn er das Thema aufgrund der Zeit- und Umfangslimiten nur oberflächlich und unvollständig behandelt. Ich finde es ein sehr interessantes Thema. Eine Freundin von mir macht ihre MA über das Verwenden von psychologischen Mitteln bei der Befragung von Zeugen, wahrscheinlich hat mich das unterbewusst auch zu dem Thema gebracht. 
+Es ging ziemlich schnell, den Text zu schreiben. Ich habe das Wissen vom Deutschunterricht mit dem Wikipedia Artikel kombiniert und einfach angefangen, draufloszuschreiben. Ich bin relativ zufrieden mit dem Text, auch wenn er das Thema aufgrund der Zeit- und Umfangslimiten nur oberflächlich und unvollständig behandelt. Ich finde es ein sehr interessantes Thema. Eine Freundin von mir macht ihre MA über das Verwenden von psychologischen Mitteln bei der Befragung von Zeugen, wahrscheinlich hat mich das auch zu dem Thema gebracht. 
 
 {{</box>}}
