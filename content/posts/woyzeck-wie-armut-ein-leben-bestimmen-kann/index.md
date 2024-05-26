@@ -35,7 +35,7 @@ Abschliessend kann man sagen, dass Armut ein Menschenleben vollständig bestimme
 
 {{<box>}}
 
-Ich bin ein wenig unzufrieden mit meinem Text. Ich habe viele Gedanken zu dem Thema aber konnte sie nicht schön ordnen. Wenn ich mehr Zeit hätte, würde ich mir die Hauptpunkte wahrscheinlich notieren und neu umsortieren und den ganzen Text neu schreiben. Aber was ich inhaltlich gesagt habe, ist gut. Es war sehr wichtig, den Text noch einmal durchzulesen und viele Sätze umzuformulieren, weil ich beim ersten Entwurf meine Gedanken notiert habe, ohne sie für den Leser verständlich zu formulieren.
+Ich bin ein wenig unzufrieden mit meinem Text. Ich habe viele Gedanken zu dem Thema aber konnte sie nicht schön ordnen. Wenn ich mehr Zeit hätte, würde ich mir die Hauptpunkte wahrscheinlich notieren und neu umsortieren und den ganzen Text neu schreiben. Aber was ich inhaltlich gesagt habe, ist gut. Es war sehr wichtig, den Text noch einmal durchzulesen und viele Sätze umzuformulieren, weil ich beim ersten Entwurf meine Gedanken notiert habe, ohne sie für den Leser verständlich zu formulieren. Für den Zeitrahmen ist der Text in Ordnung.
 
 Für den Text habe ich keine Hilfsmittel und keine Quellen verwendet. Meine Schreibmethode war es, über das Thema gründlich nachzudenken, einige Gedanken, die ich integrieren wollte, zu notieren und dann einfach draufloszuschreiben. 
 
