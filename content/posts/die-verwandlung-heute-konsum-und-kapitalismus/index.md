@@ -10,12 +10,7 @@ image = "0e89c726-5245-43cb-a249-99da965e4366.jpeg"
 
 Wir haben uns in den letzten Wochen mit Kafka beschäftigt und im Rahmen dessen "Die Verwandlung" gelesen. In der Klasse haben wir mehrere Deutungshypothesen besprochen, beispielsweise dass der Text autobiographisch ist und Kafkas Beziehung zu seiner Familie darstellt, oder dass es eine Kritik an der Arbeitswelt ist, dass Gregor als Ungeziefer eine Person mit psychischen Problemen darstellt, oder die Lebensumstände der Zeit kritisiert.
 
-… anhand von unterrichtsnotizen ergänzen?
-
-\
 Als Hausaufgabe auf den 13.05. sollten wir uns Gedanken zu der Verwandlung in der heutigen Zeit machen. Ich möchte in diesem Blogeintrag näher auf diesen Auftrag eingehen.
-
-anhand von unterrichtsnotizen ergänzen, notizen aus dem buch!
 
 Nachdem ich den Text gelesen hatte, sind mir einige Parallelen zur Gegenwart eingefallen. Es ist bekannt, dass manche Jugendliche meiner Generation sehr lange Zeit im Bett liegen und nichts machen, weil sie sich schlecht fühlen und keine Energie haben ('bed rotting'). Ich habe mir gedacht, dass man dies mit Gregor vergleichen kann, der in seinem Zimmer gefangen ist und nicht wegkommt. Deshalb möchte ich die Umstände, die Gregor zur Verwandlung gebracht haben, mit den Dingen, die viele meiner Freunden belasten, vergleichen. Auch die Gefühle während der Isolation sind vergleichbar.
 
