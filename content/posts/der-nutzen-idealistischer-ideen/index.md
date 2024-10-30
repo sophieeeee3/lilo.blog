@@ -21,7 +21,7 @@ And the world will be as one”
 John Lennon, Imagine
 Allerdings bin ich definitiv auch der Meinung, dass man es zu weit treiben kann mit utopischem Denken. Utopische Ideen können so grandios klingen, dass man dazu verleitet wird, grosse, gewagte politische Veränderungen zu machen. Diese Umsetzungen waren, in Hinblick auf die Geschichte, oft sehr fehlerhaft. Ich meine beispielsweise den Kommunismus, Anarchismus, Nazi-Deutschland, Islamischen Staat uvm.
 
-{{<box title="Ausklappbare Box">}}
+{{<box title="Reflexion">}}
 
 
 Die Idee für den Text habe ich während der Unterrichtsbesprechung über den Nahostkonflikt bekommen. Während dem Schreiben musste ich immer wieder an das Lied «Imagine» von John Lennon denken. Hier ein Ausschnitt: 
@@ -34,4 +34,4 @@ Quellen:
 https://www.dwds.de/wb/Ideal
 https://www.dwds.de/wb/Utopie?o=utopie
 
-{{</box title="Ausklappbare Box">}}
+{{</box title="Reflexion">}}
