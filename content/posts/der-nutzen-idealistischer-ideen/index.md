@@ -25,9 +25,9 @@ Ich denke, dass das utopische Denken zu den Menschen dazu gehört. Wir mögen es
 > And the world will be as one”
 > John Lennon, Imagine
 
-John Lennon stellt sich in "Imagine" eine Welt, in der Weltfrieden existiert und es keine Landesgrenzen gibt. In dieser Welt gibt es nichts, wofür man umbringen oder sterben würde und keinen Grund für Gier. Die Menschheit könnte sich die Welt teilen und in Frieden leben. In dem Ausschnitt oben kritisiert er das augenblickliche Verwerfen seiner Vorstellungen und das Abschreiben der Vorstellungen als albern. Denn es wäre möglich, eine bessere, friedlichere Welt zu erreichen, wenn die Utopie ernsthaft in Betracht gezogen werden würde und daraufhin Schritte in diese Richtungen gemacht werden könnten.
+John Lennon stellt sich in "Imagine" eine Welt vor, in der Weltfrieden existiert und es keine Landesgrenzen gibt. In dieser Welt gibt es nichts, wofür man umbringen oder sterben würde und keinen Grund für Gier. Die Menschheit könnte sich die Welt teilen und in Frieden leben. In dem Ausschnitt oben kritisiert er, dass viele Menschen seine Vorstellungen albern nennen und verwerfen, ohne sie in Betracht zu ziehen. Denn es wäre möglich, eine bessere, friedlichere Welt zu erreichen, wenn die Utopie ernsthaft in Betracht gezogen werden würde und daraufhin Schritte in die Richtung einer friedlichen Welt gemacht werden könnten.
 
-Allerdings bin ich definitiv auch der Meinung, dass man es zu weit treiben kann mit utopischem Denken. Utopische Ideen können so grandios klingen, dass man dazu verleitet wird, grosse, gewagte politische Veränderungen zu machen. Diese Umsetzungen waren, in Hinblick auf die Geschichte, oft sehr fehlerhaft. Ich meine beispielsweise den Kommunismus, Anarchismus, Nazi-Deutschland, Islamischen Staat uvm.
+Allerdings bin ich definitiv auch der Meinung, dass man es zu weit treiben kann mit utopischem Denken. Utopische Ideen können so grandios klingen, dass man dazu verleitet wird, grosse, gewagte politische Veränderungen zu machen. Diese gewagten Umsetzungen waren, in Hinblick auf die Geschichte, oft sehr fehlerhaft. Ich meine beispielsweise den Kommunismus, Anarchismus, Nazi-Deutschland, Islamischen Staat uvm.
 
 {{<box title="Reflexion">}}
 
