@@ -1,7 +1,7 @@
 +++
 title = "Der Nutzen von Idealen und Utopien"
 date = "2024-10-20"
-draft = true
+draft = false
 pinned = false
 +++
 Das Ideendrama «Nathan der Weise» von Lessing ist eines der bekanntesten Werke der Aufklärung. Lessing kritisiert darin fundamentalistischen Glauben und zeigt das Ideal des beispielhaften Aufklärers anhand von Nathan. In diesem Text möchte ich zuerst erklären, was Ideale und Utopien sind und wie sie in «Nathan der Weise» von Lessing vorkommen. In dem zweiten Teil werde ich hinterfragen, welchen Nutzen solche Ideale und Utopien von Lessing und weiteren Autoren für unsere Gesellschaft haben. 
