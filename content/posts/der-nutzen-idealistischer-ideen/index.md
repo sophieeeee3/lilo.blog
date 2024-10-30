@@ -33,6 +33,8 @@ Allerdings bin ich definitiv auch der Meinung, dass man es zu weit treiben kann 
 
 Die Idee für den Text habe ich während der Unterrichtsbesprechung über den Nahostkonflikt bekommen. Während dem Schreiben musste ich immer wieder an das Lied «Imagine» denken, deshalb habe ich es eingebaut. 
 
+ChatGPT und andere KI habe ich in meinem Arbeitsprozess nicht benutzt. Ich habe ChatGPT einmal einen Satz zum umformulieren gegeben, doch die Antwort war nicht brauchbar, weil sie die Bedeutung des Satzes komplett veränderte. 
+
 
 Ich habe die Website www.dwds.de benutzt für die Definitionen von «Ideal» und «Utopie».
 Quellen:
