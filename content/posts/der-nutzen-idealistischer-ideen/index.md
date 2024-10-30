@@ -31,11 +31,9 @@ Allerdings bin ich definitiv auch der Meinung, dass man es zu weit treiben kann 
 
 {{<box title="Reflexion">}}
 
-Die Idee für den Text habe ich während der Unterrichtsbesprechung über den Nahostkonflikt bekommen. Während dem Schreiben musste ich immer wieder an das Lied «Imagine» von John Lennon denken. Hier ein Ausschnitt: 
-“You may say I'm a dreamer
-But I'm not the only one
-I hope someday you'll join us
-And the world will be as one”
+Die Idee für den Text habe ich während der Unterrichtsbesprechung über den Nahostkonflikt bekommen. Während dem Schreiben musste ich immer wieder an das Lied «Imagine» denken, deshalb habe ich es eingebaut. 
+
+
 Ich habe die Website www.dwds.de benutzt für die Definitionen von «Ideal» und «Utopie».
 Quellen:
 https://www.dwds.de/wb/Ideal
