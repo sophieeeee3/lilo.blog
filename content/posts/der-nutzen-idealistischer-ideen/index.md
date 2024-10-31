@@ -34,7 +34,9 @@ John Lennon stellt sich in "Imagine" eine Welt vor, in der Weltfrieden existiert
 Allerdings bin ich definitiv auch der Meinung, dass man es zu weit treiben kann mit utopischem Denken. Utopische Ideen können so grandios klingen, dass man dazu verleitet wird, grosse, gewagte politische Veränderungen zu machen. Diese gewagten Umsetzungen waren, in Hinblick auf die Geschichte, oft sehr fehlerhaft. Ich meine beispielsweise den Kommunismus, Anarchismus, Nazi-Deutschland, Islamischen Staat uvm.
 
 {{<box>}}
-Die Idee für den Text habe ich während der Unterrichtsbesprechung über den Nahostkonflikt bekommen. Während dem Schreiben musste ich immer wieder an das Lied «Imagine» denken, deshalb habe ich es eingebaut.
+Die Idee für den Text habe ich während der Unterrichtsbesprechung über den Nahostkonflikt bekommen. Während dem Schreiben musste ich immer wieder an das Lied «Imagine» denken, deshalb habe ich es eingebaut. 
+
+Ich finde den Text in Ordnung, ich hätte aber  mehr Struktur einbauen können. Ich habe das Thema meines Textes natürlich nicht umfassend abgedeckt mit diesem Blog. Diesen Anspruch hatte ich aber auch nicht; ich wollte meine Überlegungen zum Nutzen von Idealen und Utopien niederschreiben, um meine Gedanken zu ordnen und anschliessend vor mir zu sehen. 
 
 ChatGPT und andere KI habe ich in meinem Arbeitsprozess nicht benutzt. Ich habe ChatGPT einmal einen Satz zum umformulieren gegeben, doch die Antwort war nicht brauchbar, weil sie die Bedeutung des Satzes komplett veränderte. 
 
