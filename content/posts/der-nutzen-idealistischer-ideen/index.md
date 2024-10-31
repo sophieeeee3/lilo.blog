@@ -40,7 +40,7 @@ Ich finde den Text in Ordnung, ich hätte aber  mehr Struktur einbauen können. 
 
 ChatGPT und andere KI habe ich in meinem Arbeitsprozess nicht benutzt. Ich habe ChatGPT einmal einen Satz zum umformulieren gegeben, doch die Antwort war nicht brauchbar, weil sie die Bedeutung des Satzes komplett veränderte. 
 
-Ich habe die Website www.dwds.de benutzt für die Definitionen von «Ideal» und «Utopie».
+Ich habe die Website www.dwds.de benutzt für die Definitionen von «Ideal» und «Utopie», habe sie aber noch ein wenig angepasst.
 
 Quellen:
 https://www.dwds.de/wb/Ideal
