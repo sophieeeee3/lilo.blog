@@ -20,9 +20,13 @@ Zusammenfassend ist es sehr schwierig, ideale Zustände wie die der weltweiten T
 Ich denke, dass das utopische Denken zu den Menschen dazu gehört. Wir mögen es, über realistische Grenzen hinauszudenken und «Was wäre wenn…» Fragen zu stellen. Die Endzustände, die durch Ideale und Utopien beschrieben werden, sollen manchmal nicht endgültige Ziele darstellen, sondern Richtungen, in die sich die Gesellschaft bewegen soll. Ohne diese Richtungen würden wir orientierungs- und ziellos herumirren. Utopien und Ideale bieten Antworten auf grundsätzliche politische und philosophische Fragen und fordern Diskurs über die Art, wie wir unsere Gesellschaft gestalten möchten. Sie regen uns deshalb zum denken und diskutieren an, wie wir unsere Gesellschaft verbessern können und motivieren uns, nach neuen Lösungen für bestehende gesellschaftliche Probleme zu suchen. Gäbe es keine Träumer, würde sich nie etwas verändern. 
 
 > “You may say I'm a dreamer
+>
 > But I'm not the only one
+>
 > I hope someday you'll join us
+>
 > And the world will be as one”
+>
 > John Lennon, Imagine
 
 John Lennon stellt sich in "Imagine" eine Welt vor, in der Weltfrieden existiert und es keine Landesgrenzen gibt. In dieser Welt gibt es nichts, wofür man umbringen oder sterben würde und keinen Grund für Gier. Die Menschheit könnte sich die Welt teilen und in Frieden leben. In dem Ausschnitt oben kritisiert er, dass viele Menschen seine Vorstellungen albern nennen und verwerfen, ohne sie in Betracht zu ziehen. Denn es wäre möglich, eine bessere, friedlichere Welt zu erreichen, wenn die Utopie ernsthaft in Betracht gezogen werden würde und daraufhin Schritte in die Richtung einer friedlichen Welt gemacht werden könnten.
@@ -31,7 +35,6 @@ Allerdings bin ich definitiv auch der Meinung, dass man es zu weit treiben kann 
 
 {{<box>}}
 Die Idee für den Text habe ich während der Unterrichtsbesprechung über den Nahostkonflikt bekommen. Während dem Schreiben musste ich immer wieder an das Lied «Imagine» denken, deshalb habe ich es eingebaut.
-
 
 ChatGPT und andere KI habe ich in meinem Arbeitsprozess nicht benutzt. Ich habe ChatGPT einmal einen Satz zum umformulieren gegeben, doch die Antwort war nicht brauchbar, weil sie die Bedeutung des Satzes komplett veränderte. 
 
