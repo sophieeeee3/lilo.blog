@@ -1,5 +1,5 @@
 +++
-title = "Meursault: Le seul Christ nous méritions?"
+title = "Meursault: Le seul Christ que nous méritions?"
 date = "2025-01-07"
 draft = false
 pinned = false
