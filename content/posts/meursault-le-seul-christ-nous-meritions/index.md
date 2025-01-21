@@ -3,7 +3,7 @@ title = "Meursault: Le seul Christ que nous méritions?"
 date = "2025-01-07"
 draft = false
 pinned = false
-tags = ["Französisch", ""]
+tags = ["Französisch"]
 image = "rue-des-archives_suddeutsche-zeitung-photo-01900746-hr.jpg"
 footnotes = "Image frontier: https://www.philomag.de/artikel/historische-einfluesse\n\nText: https://www.jstor.org/stable/44314019\n\nEt cette pdf semble intéressant mais je n'a pas le temps de le lire: https://www.dpublication.com/wp-content/uploads/2021/10/N-859.pdf"
 +++
