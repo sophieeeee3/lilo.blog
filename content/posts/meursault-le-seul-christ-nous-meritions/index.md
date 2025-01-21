@@ -14,3 +14,9 @@ Alors, j'ai été plus surpris d'apprendre que Camus avait créé Meursault semb
 > "Il m'est arrivé de dire aussi, et toujours paradoxalement, que j'avais essayé de figurer dans mon personnage le seul Christ que nous méritions."
 >
 > Camus, Preface to *The Stranger* (January 1955)
+
+Comme j'ai lu 
+
+
+
+Peut-etre Camus veut souligner que Meursault est vraiment un héros parce qu'il meurt pour la vérité, juste comme Jésus est mort pour "notre péchés".
