@@ -1,11 +1,11 @@
 +++
 title = "Meursault: Le seul Christ nous méritions?"
 date = "2025-01-07"
-draft = true
+draft = false
 pinned = false
 tags = ["Französisch", ""]
 image = "rue-des-archives_suddeutsche-zeitung-photo-01900746-hr.jpg"
-footnotes = "J'utilise: https://www.jstor.org/stable/44314019\n\nEst cette pdf semble intéressant mais je n'a pas le temps de le lire: https://www.dpublication.com/wp-content/uploads/2021/10/N-859.pdf"
+footnotes = "Image frontier: https://www.philomag.de/artikel/historische-einfluesse\n\nText: https://www.jstor.org/stable/44314019\n\nEt cette pdf semble intéressant mais je n'a pas le temps de le lire: https://www.dpublication.com/wp-content/uploads/2021/10/N-859.pdf"
 +++
 Camus est connu pour critiser la christianité. Il a trouvé particulièrement contradictoire que l'image d'un paradis enlève toute raison de rester sur ce monde horrible, où ce que l'on fait et ce que l'on laisse être n'a aucune importance.
 
@@ -15,7 +15,7 @@ En plus, sur le dérnier chapitre jusque aprés la condamnation, on peut aussi l
 
 Alors, j'ai été plus surpris d'apprendre que Camus avait créé Meursault semblable à Jesus.
 
-> *"Il m'est arrivé de dire aussi, et toujours paradoxalement, que j'avais essayé de figurer dans mon personnage le seul Christ que nous méritions."*
+> *"Il m'est arrivé de dire aussi, et toujours paradoxalement, que **j'avais essayé de figurer** dans mon personnage **le seul Christ que nous méritions**."*
 >
 > Camus, Preface to *The Stranger* (January 1955)
 
